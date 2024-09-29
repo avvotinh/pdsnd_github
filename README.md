@@ -18,3 +18,7 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 ### Credits
 
 - [Git documentation is very usefull.](https://git-scm.com/doc)
+
+### About me
+
+- I'm Hop Le Van, Software Engineer
