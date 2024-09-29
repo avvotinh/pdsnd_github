@@ -17,4 +17,4 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 
 ### Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- [Git documentation is very usefull.](https://git-scm.com/doc)
