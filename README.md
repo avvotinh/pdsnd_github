@@ -18,3 +18,7 @@ This is third project in programing for data science.
 ### Credits
 
 - [Git documentation is very usefull.](https://git-scm.com/doc)
+
+### About me
+
+- I'm Hop Le Van, Software Engineer
