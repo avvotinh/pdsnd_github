@@ -6,7 +6,7 @@
 
 ### Description
 
-In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
+This is third project in programing for data science.
 
 ### Files used
 
